@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: linear-gradient(to bottom left, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.578) 70%), url('/back.gif');
+    background-image: linear-gradient(to bottom left, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.578) 70%), url('back.gif');
 
     background-repeat: no-repeat;
     background-attachment: fixed;
